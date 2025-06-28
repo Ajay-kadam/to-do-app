@@ -13,5 +13,4 @@ A simple RESTful To-Do application built using **Golang** and **MongoDB**, with 
 
 ---
 
-## 📁 Project Structure
 
